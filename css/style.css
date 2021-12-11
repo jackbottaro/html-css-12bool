@@ -1,5 +1,13 @@
 [class^="col"] {
   min-height: 100px;
-  background-color: #ed333b;
+  background-color: #26a269;
   border: 1px solid white;
+}
+
+.nested {
+  background-color: #57e389;
+}
+
+.padding {
+  padding: 10px;
 }
