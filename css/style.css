@@ -1,0 +1,5 @@
+[class^="col"] {
+  min-height: 100px;
+  background-color: #ed333b;
+  border: 1px solid white;
+}

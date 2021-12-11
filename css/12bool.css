@@ -62,7 +62,7 @@
 
 /* COL GENERAL SECTION */
 
-[col^="col"] {
+[class^="col"] {
   flex-grow: 0;
   flex-basis: auto;
   flex-shrink: 0;
