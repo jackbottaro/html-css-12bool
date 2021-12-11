@@ -3,13 +3,14 @@
   background-color: #26a269;
   border: 1px solid white;
   color: white;
+  border-radius: 6px;
 }
 
 .nested {
   background-color: #57e389;
 }
 
- {
+.col-2x {
   min-height: 140px;
 }
 
